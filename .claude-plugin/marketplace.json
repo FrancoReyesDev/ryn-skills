@@ -1,0 +1,23 @@
+{
+	"name": "ryn-skills",
+	"owner": {
+		"name": "FrancoReyesDev"
+	},
+	"metadata": {
+		"description": "Personal engineering skills: code style, MCP builder, serverless infrastructure",
+		"version": "1.0.0"
+	},
+	"plugins": [
+		{
+			"name": "ryn-skills",
+			"description": "TypeScript code style, MCP server construction, and serverless infrastructure patterns",
+			"source": "./",
+			"strict": false,
+			"skills": [
+				"./skills/ryn-code",
+				"./skills/ryn-mcp",
+				"./skills/ryn-infra"
+			]
+		}
+	]
+}

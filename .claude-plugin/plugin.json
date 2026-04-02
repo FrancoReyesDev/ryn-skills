@@ -1,9 +1,0 @@
-{
-	"name": "ryn-skills",
-	"description": "Personal engineering skills: code style guidelines, MCP server construction, and serverless infrastructure patterns",
-	"version": "1.0.0",
-	"author": {
-		"name": "FrancoReyesDev"
-	},
-	"repository": "https://github.com/FrancoReyesDev/ryn-skills"
-}
